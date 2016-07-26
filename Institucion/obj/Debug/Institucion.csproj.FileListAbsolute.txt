@@ -1,0 +1,6 @@
+C:\Users\Ignacio\Desktop\Curso Basico C#\Institucion\Institucion\bin\Debug\Institucion.exe.config
+C:\Users\Ignacio\Desktop\Curso Basico C#\Institucion\Institucion\bin\Debug\Institucion.exe
+C:\Users\Ignacio\Desktop\Curso Basico C#\Institucion\Institucion\bin\Debug\Institucion.pdb
+C:\Users\Ignacio\Desktop\Curso Basico C#\Institucion\Institucion\obj\Debug\Institucion.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Curso Basico C#\Institucion\Institucion\obj\Debug\Institucion.exe
+C:\Users\Ignacio\Desktop\Curso Basico C#\Institucion\Institucion\obj\Debug\Institucion.pdb
